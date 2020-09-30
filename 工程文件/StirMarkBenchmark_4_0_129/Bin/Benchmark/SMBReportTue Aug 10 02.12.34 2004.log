@@ -1,0 +1,38 @@
+MarkBench - Bench Report - Tue Aug 10 02.12.35 2004
+
+MS name            : Blind linear correlation technique - V demo
+MS release date    : June 2000 - Last update: February 2002
+MS contact address : fabienpe@microsoft.com
+MS source location : http://www.cl.cam.ac.uk/~fapp2/watermarking/evaluation/
+MS family type     : 6
+MS max key size    : 32
+MS max msg size    : 0
+
+
+
+
+
+---------------------------------------------------
+Test_PSNR -- Tue Aug 10 02.12.35 2004
+---------------------------------------------------
+Test_PSNR	0	Images/Set1/Sample	Certainty:	57.1176	1.#INF dB	
+Test_PSNR	10	Images/Set1/Sample	Certainty:	59.5911	39.5348 dB	
+Test_PSNR	20	Images/Set1/Sample	Certainty:	61.238	35.12 dB	
+Test_PSNR	30	Images/Set1/Sample	Certainty:	63.7099	32.0288 dB	
+Test_PSNR	40	Images/Set1/Sample	Certainty:	65.3558	29.0791 dB	
+Test_PSNR	50	Images/Set1/Sample	Certainty:	67.8241	27.402 dB	
+Test_PSNR	60	Images/Set1/Sample	Certainty:	69.4624	25.5724 dB	
+Test_PSNR	70	Images/Set1/Sample	Certainty:	71.929	23.9909 dB	
+Test_PSNR	80	Images/Set1/Sample	Certainty:	73.5724	23.0663 dB	
+Test_PSNR	90	Images/Set1/Sample	Certainty:	76.0381	21.8533 dB	
+Test_PSNR	100	Images/Set1/Sample	Certainty:	77.6798	21.1353 dB	
+Test_PSNR	0	Images/Set1/Lena	Certainty:	144.626	1.#INF dB	
+Test_PSNR	10	Images/Set1/Lena	Certainty:	147.623	38.1711 dB	
+Test_PSNR	20	Images/Set1/Lena	Certainty:	149.62	33.8087 dB	
+Test_PSNR	30	Images/Set1/Lena	Certainty:	152.611	29.805 dB	
+Test_PSNR	40	Images/Set1/Lena	Certainty:	154.594	27.9465 dB	
+Test_PSNR	50	Images/Set1/Lena	Certainty:	157.54	25.7619 dB	
+Test_PSNR	60	Images/Set1/Lena	Certainty:	159.483	24.5416 dB	
+Test_PSNR	70	Images/Set1/Lena	Certainty:	162.365	23.0301 dB	
+Test_PSNR	80	Images/Set1/Lena	Certainty:	164.256	22.1442 dB	
+Test_PSNR	90	Images/Set1/Lena	Certainty:	167.032	21.0197 dB	
